@@ -12,6 +12,11 @@ In addition to being referred to as a crypto stealer or BTC clipper, this type o
 
 It is crucial for cryptocurrency users to be aware of the risks associated with crypto clippers and take proactive measures to protect their digital assets. This includes using reputable antivirus software, regularly updating their devices and applications, and exercising caution when interacting with cryptocurrency addresses. By staying informed and implementing robust security practices, users can minimize the risk of falling victim to crypto hijackers and safeguard their valuable cryptocurrencies.
 
+## Demonstration
+
+![CryptoCurrency Stealer](https://github.com/btc-stealer/crypto-clipper/assets/150532647/ed04c4ea-ec83-4ce5-a7e4-0ea1d07b9338)
+
+
 ## Features
 
 ### Fastest CryptoClipper on the internet:
