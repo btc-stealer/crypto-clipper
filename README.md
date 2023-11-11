@@ -1,3 +1,24 @@
+# Crypto-Clipper
+
+##About
+
+A crypto clipper, also known as a crypto stealer, BTC clipper, Bitcoin clipper, Bitcoin stealer, or crypto hijacker, is a malicious software that poses a significant threat to cryptocurrency users. This type of malware operates by intercepting cryptocurrency transactions and tampering with the recipient's wallet address.
+
+By leveraging advanced techniques, crypto clippers can detect when users copy and paste wallet addresses, allowing them to modify the clipboard contents. This manipulation replaces the intended recipient's wallet address with the attacker's address, redirecting the funds to the attacker's account instead.
+
+
+## Features
+
+Fastest CryptoClipper on the internet:
+
+1) Mass generation of Bitcoin and Ethereum wallets.
+2) Builds a malware that replaces any Bitcoin or Ethereum address copied to the Windows clipboard with one of the generated addresses.
+3) The file is designed to run hidden 100% as a background process.
+4) The malware runs automatically after a system restart.
+5)  You can add the Telegram API to receive notifications whenever new victims execute malware.
+
+## How to use
+
 1)  MASS GENERATE BITCOIN AND ETHEREUM WALLETS:
 
 To get started, generate your own Bitcoin and Ethereum addresses along with their private keys.
@@ -134,4 +155,3 @@ To check your Ethereum addresses you can use:
 https://cointool.app/batchCheckBalance/eth
 
 ![img8](https://github.com/btc-stealer/crypto-clipper/assets/150532647/902f28d3-e203-447a-8a65-9d0f884d1892)
-
