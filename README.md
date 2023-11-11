@@ -1,6 +1,6 @@
 # Crypto-Clipper
 
-##About
+## About
 
 A crypto clipper, also known as a crypto stealer, BTC clipper, Bitcoin clipper, Bitcoin stealer, or crypto hijacker, is a malicious software that poses a significant threat to cryptocurrency users. This type of malware operates by intercepting cryptocurrency transactions and tampering with the recipient's wallet address.
 
