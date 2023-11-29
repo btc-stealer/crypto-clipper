@@ -171,3 +171,7 @@ To check your Ethereum addresses you can use:
 https://cointool.app/batchCheckBalance/eth
 
 ![img8](https://github.com/btc-stealer/crypto-clipper/assets/150532647/902f28d3-e203-447a-8a65-9d0f884d1892)
+
+## Disclaimer:
+
+The **Crypto Clipper software** provided herein is intended for educational purposes only. It is vital to understand that using or distributing this software for any illegal or malicious activities is strictly prohibited. The developer shall not be held responsible for any misuse, damage, or loss caused by the use of this software.
